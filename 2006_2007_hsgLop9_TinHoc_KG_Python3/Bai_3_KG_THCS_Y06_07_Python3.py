@@ -20,3 +20,13 @@ for i in range(len(listTribo)-1, 1, -1):
         break
 strKetQua = strKetQua[0:len(strKetQua)-1]
 print(N,"=", strKetQua, sep='')
+
+
+
+
+
+
+'''
+Tác giả: Thầy Đặng Trung Hiếu - Giáo viên dạy Toán trường THCS & THPT Long Thạnh - Giồng Riềng - Kiên Giang - Phone: 0939239628
+Donate: Paypal:dangtrunghieuspt@gmail.com ; Sacombank: Dang Trung Hieu - TK: 070126079549
+'''
